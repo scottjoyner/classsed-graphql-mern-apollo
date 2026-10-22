@@ -17,3 +17,10 @@ The repository does not currently define a working test script: `npm test` is a 
 ## Status
 
 This README documents the confirmed package dependencies, not a verified runnable server. Add the actual start command, environment-variable template, and repeatable test coverage when confirmed.
+
+## Repository links
+
+- [Browse the default-branch files](https://github.com/scottjoyner/classsed-graphql-mern-apollo/tree/class1)
+- [Review repository history](https://github.com/scottjoyner/classsed-graphql-mern-apollo/commits/class1)
+
+These links refer to this checkout and do not constitute build or deployment verification.
